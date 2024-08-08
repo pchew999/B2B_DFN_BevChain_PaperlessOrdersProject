@@ -7,15 +7,19 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="B2b_DFN_BevChain_PaperlessOrder">1.0</value>
+  </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">08-08-2024 07:08:00 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2024-08-08T07:08:05.139935935Z</value>
+  <value name="lastUpdated">2024-08-08T07:09:09.873271353Z</value>
+  <value name="wmProjectId">flc1a2c141e84e1a0ecbadb5</value>
+  <value name="creator">Peng Chew</value>
 </Values>

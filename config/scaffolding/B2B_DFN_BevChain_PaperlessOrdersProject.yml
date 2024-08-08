@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/pchew999/B2B_DFN_BevChain_PaperlessOrdersProject
   gitUsername: pchew999
   gitBranch: main
+- name: B2b_DFN_BevChain_PaperlessOrder
+  gitServerName: PC_github
+  gitUrl: https://github.com/pchew999
+  gitUsername: pchew999
+  gitBranch: master
